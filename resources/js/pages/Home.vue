@@ -1,6 +1,6 @@
 <script setup lang="ts">
+import about from '@/routes/about';
 import { Link } from '@inertiajs/vue3';
-import about from '@routes/about';
 </script>
 
 <template>
